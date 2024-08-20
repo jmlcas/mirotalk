@@ -1,8 +1,9 @@
 services:
+
   mirotalk:
     image: mirotalk/p2p:latest
+    container_name: mirotalk    
     restart: unless-stopped
-    container_name: mirotalk
     hostname: mirotalk
     ports:
       # use a reverse proxy with SSL/TLS support
