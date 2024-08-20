@@ -1,4 +1,4 @@
 # MiroTalk p2p
 
-Ver en "http://localhost:3000"
+Ver en ejemplo: "https://sub.dominio.com"
 
